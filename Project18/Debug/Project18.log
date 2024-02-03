@@ -1,0 +1,24 @@
+﻿Build started 9/1/2023 11:02:21 AM.
+     1>Project "F:\مشروع حسابات\Fighter Jet\Project18\Project18.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp GLTexture.cpp math3d.cpp Model_3DS.cpp Source.cpp texture.cpp
+         texture.cpp
+         Source.cpp
+         Model_3DS.cpp
+         math3d.cpp
+         GLTexture.cpp
+         camera.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\مشروع حسابات\Fighter Jet\Debug\Project18.exe" /INCREMENTAL /NOLOGO GLAUX.lib GLU32.lib glut.lib OPENGL32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\مشروع حسابات\Fighter Jet\Debug\Project18.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\مشروع حسابات\Fighter Jet\Debug\Project18.lib" /MACHINE:X86 Debug\camera.obj
+         Debug\GLTexture.obj
+         Debug\math3d.obj
+         Debug\Model_3DS.obj
+         Debug\Source.obj
+         Debug\texture.obj
+         Project18.vcxproj -> F:\مشروع حسابات\Fighter Jet\Debug\Project18.exe
+     1>Done Building Project "F:\مشروع حسابات\Fighter Jet\Project18\Project18.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.19
